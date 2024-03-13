@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662297242127",
+    "project_id": "lunastalaan",
+    "storage_bucket": "lunastalaan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662297242127:android:f8e66cbbda802509fed17a",
+        "android_client_info": {
+          "package_name": "com.example.lunastalaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Kt6FS_NpY5jc2Q_M9bqqYZLUQYsTFZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
